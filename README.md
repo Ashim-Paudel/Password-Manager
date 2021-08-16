@@ -1,8 +1,8 @@
 # Password-Manager
 
 ## Tkinter based GUI
-> Data is stored in json file
-> Circular encryption system is applied
+- Data is stored in json file
+- Circular encryption system is applied
 
 
 ### Features
